@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.reflect.
+InaccessibleObjectException: Unable to make field private 
+java.lang.String com.jdojo.reflection.model.Phone.number 
+accessible: module jdojo.reflection.model does not "opens 
+com.jdojo.reflection.model" to module jdojo.reflection
+...

@@ -1,0 +1,5 @@
+C:\jdk17book>jar --create --verbose ^
+    --file mrjars\jdojo.mrjar.jar ^
+    -C jdojo.mrjar.jdk8\build\classes . ^
+--release 17 -C build\modules\jdojo.mrjar . ^
+--release 16 -C jdojo.mrjar.jdk16\modules\jdojo.mrjar . 

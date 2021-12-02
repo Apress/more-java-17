@@ -1,0 +1,1 @@
+Thread t = Thread.currentThread();

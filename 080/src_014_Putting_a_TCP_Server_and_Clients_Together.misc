@@ -1,0 +1,7 @@
+Server started at: ServerSocket[addr=localhost/
+    127.0.0.1,port=0,localport=12900] 
+Waiting for a connection ... 
+Received a connection from Socket[addr=/127.0.0.1,
+    port=1698,localport=12900] 
+Waiting for a connection ... 
+Received from client: Hello 

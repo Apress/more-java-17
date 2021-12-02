@@ -1,0 +1,50 @@
+C:\Java9LanguageFeatures>javac -Xlint:deprecation ^
+    -d build\modules\jdojo.annotation ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:20: warning: [deprecation]
+deprecatedOrdinarily() in Box has been deprecated
+        Box.deprecatedOrdinarily();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:29: warning: [removal]
+deprecatedTerminally() in Box has been deprecated 
+    and marked for removal
+        Box.deprecatedTerminally();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:62: warning: [removal]
+deprecatedTerminally() in Box has been deprecated 
+    and marked for removal
+        Box.deprecatedTerminally();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:95: warning: [removal]
+deprecatedTerminally() in Box has been deprecated 
+    and marked for removal
+        Box.deprecatedTerminally();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:104: warning: [deprecation]
+deprecatedOrdinarily() in Box has been deprecated
+        Box.deprecatedOrdinarily();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:105: warning: [removal]
+deprecatedTerminally() in Box has been deprecated 
+    and marked for removal
+        Box.deprecatedTerminally();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:116: warning: [removal]
+deprecatedTerminally() in Box has been deprecated 
+    and marked for removal
+        Box.deprecatedTerminally();
+           ^
+src\jdojo.annotation\classes\com\jdojo\annotation\
+    BoxTest.java:126: warning: [deprecation]
+deprecatedOrdinarily() in Box has been deprecated
+        Box.deprecatedOrdinarily();
+           ^
+8 warnings

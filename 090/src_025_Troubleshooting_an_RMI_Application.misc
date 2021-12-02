@@ -1,0 +1,6 @@
+java.rmi.server.ExportException: 
+    object already exported 
+  at sun.rmi.transport.ObjectTable.putTarget(
+    ObjectTable.java:189) 
+  at sun.rmi.transport.Transport.exportObject(
+    Transport.java:92)... 

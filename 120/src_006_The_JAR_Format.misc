@@ -1,0 +1,26 @@
+C:\jdk17book>jar --create --verbose ^
+    --file mrjars\jdojo.mrjar.jar ^ 
+    -C jdojo.mrjar.jdk8\build\classes . ^ 
+    --release 17 -C build\modules\jdojo.mrjar . 
+
+added manifest 
+added module-info: META-INF/versions/17/module-info.class 
+adding: com/(in = 0) (out= 0)(stored 0%) 
+adding: com/jdojo/(in = 0) (out= 0)(stored 0%) 
+adding: com/jdojo/mrjar/(in = 0) (out= 0)(stored 0%) 
+adding: com/jdojo/mrjar/Main.class(in = 1098) 
+    (out= 591)(deflated 46%) 
+adding: com/jdojo/mrjar/TimeUtil.class(in = 884) 
+    (out= 503)(deflated 43%) 
+adding: META-INF/versions/17/(in = 0) 
+    (out= 0)(stored 0%) 
+adding: META-INF/versions/17/com/(in = 0) 
+    (out= 0)(stored 0%) 
+adding: META-INF/versions/17/com/jdojo/(in = 0) 
+    (out= 0)(stored 0%) 
+adding: META-INF/versions/17/com/jdojo/mrjar/(in = 0) 
+    (out= 0)(stored 0%) 
+adding: META-INF/versions/17/com/jdojo/mrjar/Main.class
+    (in = 1326) (out= 688)(deflated 48%) 
+adding: META-INF/versions/17/com/jdojo/mrjar/TimeUtil.class
+    (in = 814) (out= 470)(deflated 42%) 

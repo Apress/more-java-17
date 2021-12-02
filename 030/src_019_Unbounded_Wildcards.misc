@@ -1,0 +1,9 @@
+error: method printDetails in class WrapperUtil cannot be 
+    applied to given types;
+        WrapperUtil.printDetails(stringWrapper);
+                   ^
+  required: Wrapper<Object>
+  found: Wrapper<String>
+  reason: argument mismatch; Wrapper<String> cannot be 
+    converted to Wrapper<Object>
+1 error

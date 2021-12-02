@@ -1,0 +1,6 @@
+warning: [varargs] Varargs method could cause heap 
+    pollution from non-reifiable varargs
+parameter nums
+                Object[] obj = nums;
+                               ^
+1 warning

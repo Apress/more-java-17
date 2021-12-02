@@ -1,0 +1,3 @@
+(Object x) -> {
+    return x;
+}

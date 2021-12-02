@@ -1,0 +1,1 @@
+TypeName.super::instanceMethod

@@ -1,0 +1,1 @@
+util.testJoiner(LambdaExpression);

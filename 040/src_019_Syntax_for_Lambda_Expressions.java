@@ -1,0 +1,3 @@
+() -> {
+    // No code goes here
+}

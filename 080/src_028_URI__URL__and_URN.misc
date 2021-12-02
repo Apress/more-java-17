@@ -1,0 +1,7 @@
+URI:       http://www.jdojo.com/java/intro.html?
+           id=123#conclusion 
+Scheme:    http 
+Authority: www.jdojo.com 
+Path:      /java/intro.html 
+Query:     id=123 
+Fragment:  conclusion 

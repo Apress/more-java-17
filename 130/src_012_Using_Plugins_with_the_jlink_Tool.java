@@ -1,0 +1,3 @@
+C:\jdk17book>jlink --list-plugins 
+
+...

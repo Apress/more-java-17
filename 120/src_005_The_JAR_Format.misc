@@ -1,0 +1,16 @@
+- jar-root 
+  - com 
+    - jdojo 
+      - mrjar 
+        - Main.class 
+        - TimeUtil.class 
+- META-INF 
+  - MANIFEST.MF 
+  - versions 
+    - 17
+      - module-info.class 
+      - com 
+        - jdojo 
+          - mrjar 
+            - Main.class 
+            - TimeUtil.class 

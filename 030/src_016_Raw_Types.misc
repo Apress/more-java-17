@@ -1,0 +1,12 @@
+warning: [unchecked] unchecked call to Wrapper(T) as a 
+    member of the raw type Wrapper
+        Wrapper rawType = new Wrapper("Hello");   
+                          ^
+  where T is a type-variable:
+    T extends Object declared in class Wrapper
+warning: [unchecked] unchecked conversion
+        genericType = rawType;
+                      ^
+  required: Wrapper<String>
+  found:    Wrapper
+2 warnings

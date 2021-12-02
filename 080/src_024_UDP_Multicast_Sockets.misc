@@ -1,0 +1,6 @@
+Multicast Receiver running at:
+    0.0.0.0/0.0.0.0:18777 
+Waiting for a multicast message... 
+[Multicast Receiver] Received:
+    Hello multicast socket 
+Waiting for a multicast message... 

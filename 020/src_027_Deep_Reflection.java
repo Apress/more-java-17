@@ -1,0 +1,3 @@
+module N {
+    opens q;
+}

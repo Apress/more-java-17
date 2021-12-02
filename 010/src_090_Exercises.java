@@ -1,0 +1,1 @@
+LuckNumber myLuckNumber = null;

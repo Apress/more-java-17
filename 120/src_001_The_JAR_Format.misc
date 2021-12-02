@@ -1,0 +1,7 @@
+- jar-root 
+  - C1.class 
+  - C2.class 
+  - C3.class 
+  - C4.class 
+- META-INF 
+  - MANIFEST.MF 

@@ -1,0 +1,6 @@
+Task #1 - Iteration #1 is going to sleep for 7 seconds.
+Task #2 - Iteration #1 is going to sleep for 10 seconds.
+Task #3 - Iteration #1 is going to sleep for 9 seconds.
+Task #2 has been interrupted.
+Task #3 has been interrupted.
+Task #1 has been interrupted.

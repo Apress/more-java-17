@@ -1,0 +1,5 @@
+warning: [unchecked] Possible heap pollution from 
+    parameterized vararg type Wrapper<Long>
+       public static void process(Wrapper<Long>...nums) {
+                                                         ^
+1 warning

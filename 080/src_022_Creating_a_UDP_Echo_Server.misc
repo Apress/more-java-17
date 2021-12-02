@@ -1,0 +1,10 @@
+Please enter a message (Bye to quit):
+    Hello 
+[Server at IP Address=localhost/127.0.0.1, 
+    port=15900]: Hello 
+Please enter a message (Bye to quit):
+    Nice talking to you 
+[Server at IP Address=localhost/127.0.0.1, port=15900]:
+    Nice talking to you 
+Please enter a message (Bye to quit):
+    Bye 

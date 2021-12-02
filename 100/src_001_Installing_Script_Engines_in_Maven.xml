@@ -1,0 +1,59 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation=
+      "http://maven.apache.org/POM/4.0.0 
+       https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>your.project.group.id</groupId>
+  <artifactId>your.project.artifact.id</artifactId>
+  <version>your.project.version</version>
+
+<dependencies>
+  <dependency>
+    <groupId>org.codehaus.groovy</groupId>
+    <artifactId>groovy-jsr223</artifactId>
+    <version>3.0.8</version>
+  </dependency>
+
+  <!-- Other script engines:-->
+  <dependency>
+    <groupId>org.scijava</groupId>
+    <artifactId>scripting-jython</artifactId>
+    <version>1.0.0</version>
+  </dependency>
+  <dependency>
+    <groupId>org.scijava</groupId>
+    <artifactId>scripting-jruby</artifactId>
+    <version>0.3.1</version>
+  </dependency>
+  <dependency>
+    <groupId>org.graalvm.js</groupId>
+    <artifactId>js-scriptengine</artifactId>
+    <version>21.1.0</version>
+  </dependency>
+  <dependency>
+    <!-- needed for GraalVM.js -->
+    <groupId>org.graalvm.truffle</groupId>
+    <artifactId>truffle-api</artifactId>
+    <version>21.1.0</version>
+  </dependency>
+  ...
+</dependencies>
+
+<repositories>
+  <repository>
+    <id>Maven Repo</id>
+    <url>
+https://repo1.maven.org/maven2/
+    </url>
+  </repository>
+  <repository>
+    <id>Maven Repo 2</id>
+    <url>
+http://maven.imagej.net/content/repositories/releases/
+    </url>
+  </repository>
+</repositories>
+
+...
+</project>

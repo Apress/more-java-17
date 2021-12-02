@@ -1,0 +1,3 @@
+java HelloTest.java 
+# or, if we need args
+java HelloTest.java arg1 arg2 ...

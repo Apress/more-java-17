@@ -1,0 +1,2 @@
+Reference to test is ambiguous. Both method test(Adder) in
+LambdaUtil2 and method test(Joiner) in LambdaUtil2 match.

@@ -1,0 +1,15 @@
+java.rmi.ServerException: 
+    RemoteException occurred in server thread; 
+    nested exception is: 
+        java.rmi.UnmarshalException: 
+        error unmarshalling arguments; 
+        nested exception is: 
+            java.lang.ClassNotFoundException: 
+            com.jdojo.rmi.RemoteUtility 
+... 
+Caused by: java.lang.ClassNotFoundException: 
+    com.jdojo.rmi.RemoteUtility 
+  at java.net.URLClassLoader$1.run(
+    URLClassLoader.java:220) 
+  at java.net.URLClassLoader$1.run(
+    URLClassLoader.java:209) 
